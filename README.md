@@ -3,7 +3,7 @@ To run the code:
 python -m app.drive --model model.json --speed 15 --adjust 1.5
 ```
 
-To train network
+To train network (but requires to unzip training data)
 ```
 python -m app.train
 ```
@@ -65,4 +65,4 @@ This script is responsible for all kinds of image augmentations:
 * Cropping
 * Resizing
 
-For futher details please see report ipython notebook file
+For futher details please see [report](https://github.com/tadasdanielius/P3-SDC-Behavioral-Cloning/blob/master/report.ipynb) ipython notebook file
