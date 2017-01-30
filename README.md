@@ -8,6 +8,8 @@ To train network (but requires to unzip training data)
 python -m app.train
 ```
 
+Detailed description [report](https://github.com/tadasdanielius/P3-SDC-Behavioral-Cloning/blob/master/report.ipynb)
+
 There are three arguments:
 
 * speed - The solution will try to keep maximum speed
