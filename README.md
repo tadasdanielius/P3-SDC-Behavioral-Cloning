@@ -8,14 +8,20 @@ To train network (but requires to unzip training data)
 python -m app.train
 ```
 
-Detailed description [report](https://github.com/tadasdanielius/P3-SDC-Behavioral-Cloning/blob/master/report.ipynb)
-
 There are three arguments:
 
 * speed - The solution will try to keep maximum speed
 * adjust is used to multiply predicted steering angle value by specified value
 * model is the json file name of the model
 
+
+
+Detailed description [report](https://github.com/tadasdanielius/P3-SDC-Behavioral-Cloning/blob/master/report.ipynb)
+
+Videos:
+
+* [Track 1](https://youtu.be/ujjqA53EA7g)
+* [Track 2](https://youtu.be/G-nK1OqgpdQ)
 
 # P3 Behavioral Cloning
 
